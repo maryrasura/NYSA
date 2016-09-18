@@ -55,6 +55,11 @@
     "longitude": "26",
     "image":"http://airlines-airports.com/wp-content/uploads/2016/08/Romania-Bucharest.jpg"
  },
+  "Buenos Aires, Argentina": {
+    "latitude": "-34",
+    "longitude": "-58",
+    "image":"http://www.seriouseats.com/images/2014/07/20140705-IconicBA-Allie-Lazar-buenos-aires-guide.jpg"
+ },
  
   "Cairo, Egypt": {
     "latitude": "30",
