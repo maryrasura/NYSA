@@ -5,13 +5,32 @@
 		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 	</head>
 	<body>
 			<h1>NYSA Game</h1>
 			<div id="wrapper">
 					<section id="main" class="wrapper">
 							<h3 class="major">Please select the location you think has fewer natural disasters.</h3>
+							<img id="left-city" />
+							<img id="right-city" />
 					</section>
 			</div>
+			<script>
+				const leftCity = document.getElementById("left-city");
+				const rightCity = document.getElementById("right-city");
+
+				$.ajax({
+					method: "GET",
+					url: "https://api.scriptrapps.io/nysa/danger",
+					data: {
+						auth_token: "TDBFNDUxNzg1MzpzY3JpcHRyOkFGNEMwRjJEODE3OTUyRUFBQzZCNDA2M0YzMzM2MkZD",
+						latitude: "40.7831",
+						longitude: "-73.9712"
+					},
+					success: console.log,
+					failure: console.log
+				})
+			</script>
 	</body>
 </html>

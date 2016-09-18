@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AbhinavMadahar/NYSA#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "request": "^2.75.0"
   }
 }
