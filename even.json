@@ -1,7 +1,7 @@
 {
-"Aberdeen, Scotland":{
+"Aberdeen, Scotland": {
  "latitude" : "57"
-    "longitude": "2"
+    "longitude" : "2"
       }'
     }
 
@@ -14,8 +14,8 @@
 
 {
 "Algiers, Algeria":{
-latitude:"36"
- "longitude":"3"
+latitude: "36"
+ "longitude": "3"
   },
 }
 
