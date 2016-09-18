@@ -34,4 +34,19 @@
     "longitude": "-55",
     "image":"http://finedininglovers.cdn.crosscast-system.com/BlogPost/xl_6405_TP-birmingham-england-finedininglovers.jpg"
  },
+  "Bombay, India": {
+    "latitude": "19",
+    "longitude": "72",
+    "image":"https://media-cdn.tripadvisor.com/media/photo-s/08/4d/f9/9c/gets-bombay.jpg"
+ },
+ "Bremen, Germany": {
+    "latitude": "-53",
+    "longitude": "8",
+    "image":"http://draftmag.com/wp-content/uploads/2011/12/Beck-Beyond-01.jpg"
+ },
+  "Cairo, Egypt": {
+    "latitude": "30",
+    "longitude": "21",
+    "image":"http://www.planetware.com/photos-large/EGY/egypt-cairo-pyramids-and-camels.jpg"
+ },
 } 
