@@ -21,14 +21,19 @@
   },
 }
  "Barcelona, Spain" {
-    "latitude": "41	",
+    "latitude": "41",
     "longitude": "2",
      "image":"http://www.lastatravel.rs/wp-content/uploads/parc_Gueli_Barcelona.jpg"
  },
-  "Barcelona, Spain" {
-    "latitude": "41	",
-    "longitude": "2",
-     "image":"http://www.lastatravel.rs/wp-content/uploads/parc_Gueli_Barcelona.jpg"
+  "Belgrade, Serbia" {
+    "latitude": "44",
+    "longitude": "20",
+     "image":"http://www.panoramic-serbia.com/uploads/images/catalog_src/ime-ture_src_4.jpg"
+ },
+  "Birmingham, England" {
+    "latitude": "52",
+    "longitude": "-55",
+     "image":"http://finedininglovers.cdn.crosscast-system.com/BlogPost/xl_6405_TP-birmingham-england-finedininglovers.jpg
  },
  
      
