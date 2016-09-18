@@ -43,6 +43,12 @@
     "latitude": "-53",
     "longitude": "8",
     "image":"http://draftmag.com/wp-content/uploads/2011/12/Beck-Beyond-01.jpg"
+    
+ },
+  "Bristol, England": { 
+    "latitude": "51",
+    "longitude": "-35",
+    "image":"http://www.cotswolds.info/images/bristol/river_avon_through_bristol.jpg"
  },
   "Cairo, Egypt": {
     "latitude": "30",
