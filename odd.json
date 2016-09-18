@@ -18,5 +18,25 @@
     "latitude": "37",
     "longitude": "23",
      "image":"https://media-cdn.tripadvisor.com/media/photo-s/06/cf/1e/cf/acropolis-akropolis.jpg"
+     
+  "Bangkok, Thailand": {
+    "latitude" : "13",
+    "longitude" : "100",
+    "image": "http://assets.fodors.com/destinations/21/grand-palace-night-bangkok-thailand_main.jpg"
+ },
+  "Beijing, China": {
+    "latitude" : "39",
+    "longitude": "116",
+    "image":"http://destinations.flysaa.com/photos/beijing2.jpg"
+  },
+  "Belfast, Northern Ireland": {
+    "latitude": "54",
+    "longitude": "-5",
+     "image":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Belfast_Castle,_Northern_Ireland.jpg"
+  },
+  "Berlin, Germany": {
+    "latitude": "52",
+    "longitude": "13",
+     "image":"https://kleesbutterfly.files.wordpress.com/2015/04/berlin-mc3a4rz2015-1683.jpg"
   
 }
