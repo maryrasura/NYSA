@@ -7,16 +7,16 @@
   "Algiers, Algeria": {
     "latitude" : "36",
     "longitude": "3",
-    "image":""
+    "image":"http://wikitravel.org/upload/shared//thumb/3/37/800px-Algiers_coast.jpg/300px-800px-Algiers_coast.jpg"
   },
   "Ankara, Turkey ": {
-    "latitude": "-25",
-    "longitude": "-57",
-     "image":""
+    "latitude": "39",
+    "longitude": "32",
+     "image":"http://tedytravel.com/wp-content/uploads/2016/03/Ankara-Turkey-3-550x364.jpg"
   },
   "Athens, Greece": {
-    "latitude": "-25",
-    "longitude": "174",
-     "image":""
+    "latitude": "37",
+    "longitude": "23",
+     "image":"https://media-cdn.tripadvisor.com/media/photo-s/06/cf/1e/cf/acropolis-akropolis.jpg"
   
 }
