@@ -49,4 +49,14 @@
     "longitude": "21",
     "image":"http://www.planetware.com/photos-large/EGY/egypt-cairo-pyramids-and-camels.jpg"
  },
+  "Cape Town, South Africa": {
+    "latitude": "-33",
+    "longitude": "18",
+    "image":"http://mustseeplaces.eu/wp-content/uploads/2016/05/south-africa-cape-town.jpg"
+ },
+  "Rome, Italy": {
+    "latitude": "41",
+    "longitude": "12",
+    "image":"http://www.206tours.com/images/italy/rome/st-peters-square-italy1b.jpg"
+ },
 } 
